@@ -200,7 +200,7 @@
                                                     <option value="TID Tarjeta de Identidad">TID Tarjeta de Identidad</option>
                                                     <option value="AS  Asignado">AS  Asignado</option>
                                                     <option value="IE Identificacion Extranjeria">IE Identificacion Extranjeria</option>
-                                                  </select> 
+                                                    </select> 
                                             </div>
                                         </div>
                                         <div class="col-sm-6">
@@ -341,7 +341,7 @@
                                         <div class="col-sm-4">
                                             <div class="form-group">
                                                 <label class="control-label">ARP</label>                                                
-                                                <select name="ARP" id="ARP" class="form-control" required                                                    
+                                                <select name="ARP" id="ARP" class="form-control" required   >                                                 
                                                     <!--4DIF (Size of array(ARP) #0)-->
                                                         <!--4DLOOP ARP-->
                                                             <option value="<!--4DTEXT ARP{ARP}-->" <!--4DIF ([Empleados]ARP=ARP{ARP})-->selected > <!--4DELSE--> ><!--4DENDIF--><!--4DTEXT ARP{ARP}--></option>

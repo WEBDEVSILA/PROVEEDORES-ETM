@@ -51,15 +51,15 @@
                 </div>        
                 <br>
                 <div class="form-group mb-lg">
-                  <label>Usuario</label>
-                  <div class="input-group input-group-icon">
-                    <input name="username" type="text" class="form-control input-lg" onPaste="return false" onCopy="return false" onCut="return false" autocomplete=on />
-                    <span class="input-group-addon">
-                      <span class="icon icon-lg">
-                        <i class="fa fa-user"></i> 
-                      </span>
-                    </span>
-                  </div>
+                	<label>Usuario</label>
+                  	<div class="input-group input-group-icon">
+                    	<input name="username" type="text" class="form-control input-lg" onPaste="return true" onCopy="return true" onCut="return true" autocomplete=on />
+						<span class="input-group-addon">
+					 	<span class="icon icon-lg">
+							<i class="fa fa-user"></i> 
+						</span>
+						</span>
+                  	</div>
                 </div>
 
                 <div class="form-group mb-lg">
@@ -69,7 +69,7 @@
 				  </div>-->
 				  <label>Contraseña</label>
                   <div class="input-group input-group-icon">
-                    <input name="pwd" type="password" class="form-control input-lg" onPaste="return false" onCopy="return false" onCut="return false" autocomplete=off/>
+                    <input name="pwd" type="password" class="form-control input-lg" onPaste="return true" onCopy="return true" onCut="return true" autocomplete=off/>
                     <span class="input-group-addon">
                       <span class="icon icon-lg">
                         <i class="fa fa-lock"></i>
