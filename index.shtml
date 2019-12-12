@@ -46,8 +46,8 @@
           <div class="panel-body card">
               <form action="/formulario" method="post">
                 <div class="logo">
-                  <img src="Assets/logoTelecolombia.png" class="hidden-xs" alt="Porto Admin" style="display:block; margin:auto;  max-height: 200px"/>
-                  <img src="Assets/logoTelecolombia.png" class="visible-xs" alt="Porto Admin" style="display:block; margin:auto;  max-height: 150px"/>
+                  <img src="Assets/logoTelemexico.png" class="hidden-xs" alt="Porto Admin" style="display:block; margin:auto;  max-height: 120px"/>
+                  <img src="Assets/logoTelemexico.png" class="visible-xs" alt="Porto Admin" style="display:block; margin:auto;  max-height: 80px"/>
                 </div>        
                 <br>
                 <div class="form-group mb-lg">

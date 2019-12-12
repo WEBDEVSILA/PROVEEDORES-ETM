@@ -13,7 +13,7 @@
         <aside class="main-sidebar col-11 col-md-3 col-lg-2 px-0">
          
           <div class="main-navbar">
-            <img id="main-logo" style="max-height: 80px; display:block; margin: auto; margin-top: 20px;" src="Assets/logoTelecolombia.png" >                  
+            <img id="main-logo" style="max-height: 50px; display:block; margin: auto; margin-top: 30px;" src="Assets/logoTelemexico.png" >                  
             <nav class="navbar align-items-stretch navbar-light bg-white flex-md-nowrap  p-0">              
               <a class="toggle-sidebar d-sm-inline d-md-none d-lg-none">
                 <i class="material-icons">&#xE5C4;</i>
