@@ -19,7 +19,7 @@
                 <i class="material-icons">&#xE5C4;</i>
               </a>
             </nav>
-          </div>                
+          </div>
           <div class="nav-wrapper">
             <ul class="nav flex-column">
               <li class="nav-item">
@@ -357,7 +357,7 @@
                                 <input type="text" class="form-control" name="codigoPostal" value="<!--4DTEXT [Proveedor]Cod_Postal-->" autocomplete=off
                                   required >     
                                   <div class="input-group-append">
-                                    <a class="btn btn-white" target="_blank" rel="noopener noreferrer" href="https://codigo-postal.co/colombia/">
+                                    <a class="btn btn-white" target="_blank" rel="noopener noreferrer" href="https://codigo-postal.co/mexico/">
                                       <i class="material-icons" style="font-weight: bold">search</i></a>
                                   </div>                          
                             </div>   
@@ -712,7 +712,7 @@
 
                             <br>
                             <div class="form-group row">
-                                <label class="control-label col-sm-6">¿Tiene relación con algún empleado de FTC? </label>
+                                <label class="control-label col-sm-6">¿Tiene relación con algún empleado de ETM? </label>
                                 <div class="col-sm-2 row">
                                     <div class="custom-control custom-radio ">
                                         <input type="radio" id="siRelacionFtc" value="Si"  required name="relacionFtc" class="custom-control-input" onclick="validateEmpleado()" <!--4DIF ([Proveedor]Rel_Empl_Ftc=True)-->checked<!--4DENDIF-->>
@@ -733,7 +733,7 @@
                             </div>
                             <br>
                             <div class="form-group row">
-                                <label class="control-label col-sm-6">¿Presta algún tipo de servicio a través de un tercero para FTC? </label>
+                                <label class="control-label col-sm-6">¿Presta algún tipo de servicio a través de un tercero para ETM? </label>
                                 <div class="col-sm-2 row">
                                     <div class="custom-control custom-radio ">
                                         <input type="radio" id="siServicioTercero" value="Si"  required name="servicioTercero" class="custom-control-input" onclick="validateTercero()" <!--4DIF ([Proveedor]Servicio_Tercero=True)-->checked<!--4DENDIF-->>
@@ -784,7 +784,7 @@
                                  <!--4DELSE-->                              
                                      <div class="col-md-4">
                                          <h5><!--4DTEXT OB Get([Proveedor]Nombre_Adjuntos;"rut")--></h5>
-                                     </div>                
+                                     </div>
                                      <div class="col-md-8">
                                         <input type="file" class="form-control" name="rut" onchange="ValidateSingleInput(this,'.pdf');">
                                      </div>                      
@@ -879,7 +879,7 @@
                           <br>                       
                           <p>
                   
-                            Autorizo de forma previa, expresa, consciente, libre e informada a FOXTELECOLOMBIA S.A. (en adelante "FTC"),
+                            Autorizo de forma previa, expresa, consciente, libre e informada a Estudios Teleméxico S.A. (en adelante "ETM"),
                             en calidad de responsable del tratamiento de mi información personal, sus filiales y/o subsidiarias, o en las
                             entidades en las cuales ésta, directa o indirectamente, tengan participación accionaria o sean asociados,
                             domiciliadas
@@ -887,21 +887,21 @@
                             web de
                             acuerdo a las finalidades contempladas en la Política de Privacidad la cual puede consultar en nuestra página
                             web:
-                            <a target="_blank" rel="noopener noreferrer" href="https://foxtelecolombia.com/politica-privacidad/">https://foxtelecolombia.com/politica-privacidad/</a>.    
+                            <a target="_blank" rel="noopener noreferrer" href="https://estudiostelemexico.com/politica-privacidad/">https://estudiostelemexico.com/politica-privacidad/</a>.    
                           </p>
                   
                           <p>
                             Declaro que conozco los derechos que como titular de los mismos puedo ejercer, es decir, los derechos de
                             acceso,
                             rectificación, prueba de autorización, oposición y supresión, en la forma establecida en la Política de
-                            Privacidad de FTC.
+                            Privacidad de ETM.
                           </p>
                   
                           <p>
                             Declaro y garantizo bajo la gravedad de juramento que la información suministrada es veraz, objetiva, completa
                             y
                             verificable, y en caso de falsedad se aplicaran las sanciones contempladas por la Ley y mantendré indemne a
-                            FTC por
+                            ETM por
                             cualquier daño o perjuicio derivado de la misma.
                           </p>
                           <div class="row" style="display:flex; justify-content: center">
